@@ -23,5 +23,24 @@ Explore the dashboards below. Each one has its dedicated README with details on 
 * ⚙️ Power Query (ETL & Data shaping)
 * 🎯 KPI cards
 
-[**View Full Project 1 Details
+[➡️**View Full Project 1 Details
 (README)**](/data_jobs_v1/README.md)
+
+## Data Jobs Dashboard 2.0(v2 - single-page focus)
+![Data Jobs dashboard 2.0](/images/ol.png)
+
+### **Key Power BI Skills Utilized**
+
+- 📊 Data visualization and dashboard design
+- 📈 Job-market and salary analysis
+- 🎯 KPI cards and DAX measures
+- 🔀 Field parameters for dynamic metric switching
+- 📊 Horizontal bar charts for comparison
+- 🎛️ Interactive slicers and filtering
+- 🔄 Clear selection functionality
+- 🎨 Visual formatting and report layout
+
+[➡️**view Full Project 2 Details(README)**](/data_jobs_v2/README.md)
+
+## About Portfolio
+Every project here has its own `README.md` which can be accessed by clicking the links. The READMEs talk extensively about the project. It talks about the project, the tools used and other important questions.
