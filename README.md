@@ -24,4 +24,4 @@ Explore the dashboards below. Each one has its dedicated README with details on 
 * 🎯 KPI cards
 
 [**View Full Project 1 Details
-(README)**](/data_jobs_v1/README)
+(README)**](/data_jobs_v1/README.md)
